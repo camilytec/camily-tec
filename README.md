@@ -4,7 +4,7 @@
 
 ---
 
-## ✨ Sobre mim
+## Sobre mim
 
 Tenho 20 anos, sou estudante de ADS com interesse tanto na área técnica quanto na área de gestão.
 
@@ -14,7 +14,7 @@ Tenho perfil comunicativo, organizado e gosto de transformar ideias em soluçõe
 
 ---
 
-## 🚀 Áreas de interesse
+## Áreas de interesse
 
 - 💻 Desenvolvimento Web 
 - 📊 Gestão de Projetos
