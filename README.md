@@ -26,16 +26,17 @@ Tenho perfil comunicativo, organizado e gosto de transformar ideias em soluçõe
 ## 🛠️ Tecnologias
 
 ### 💻 Linguagens
-![JavaScript](https://img.shields.io/badge/JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=white)
-![C#](https://img.shields.io/badge/CSharp-ff69b4?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white)
-
-### ⚙️ Ferramentas
-![React](https://img.shields.io/badge/React-ff69b4?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-ff69b4?style=for-the-badge&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-ff69b4?style=for-the-badge&logo=bootstrap&logoColor=white)
-
----
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" style="margin-right:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" style="margin-right:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" style="margin-right:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin-right:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="margin-right:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" style="margin-right:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40" style="margin-right:10px"/>
+</p>
 ---
 
 ## 💌 Contato
