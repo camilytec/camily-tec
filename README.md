@@ -36,6 +36,8 @@ Tenho perfil comunicativo, organizado e gosto de transformar ideias em soluçõe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" style="margin-right:10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40" style="margin-right:10px"/>
 </p>
+
+
 ---
 
 ## 💌 Contato
