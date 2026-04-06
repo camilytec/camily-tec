@@ -6,7 +6,7 @@
 
 ## ✨ Sobre mim
 
-Sou estudante de ADS com interesse tanto na área técnica quanto na área de gestão.
+Tenho 20 anos, sou estudante de ADS com interesse tanto na área técnica quanto na área de gestão.
 
 Gosto de entender como os sistemas funcionam e também me interesso por organização de projetos, trabalho em equipe e metodologias ágeis como Scrum e Kanban.
 
@@ -25,7 +25,6 @@ Tenho perfil comunicativo, organizado e gosto de transformar ideias em soluçõe
 
 ## 🛠️ Tecnologias
 
-### 💻 Linguagens
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" style="margin-right:10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" style="margin-right:10px"/>
