@@ -1,8 +1,6 @@
-# Oii, eu sou a Camily 👋
+# Oii, eu sou a Camily 🤎
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (3º período)  
-💻 Interesse em desenvolvimento web  
-📊 Focada em gestão de projetos e metodologias ágeis  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas 
 
 ---
 
@@ -10,7 +8,7 @@
 
 Sou estudante de ADS com interesse tanto na área técnica quanto na área de gestão.
 
-Gosto de entender como os sistemas funcionam e também me interesso por organização de projetos, trabalho em equipe e metodologias ágeis como Scrum.
+Gosto de entender como os sistemas funcionam e também me interesso por organização de projetos, trabalho em equipe e metodologias ágeis como Scrum e Kanban.
 
 Tenho perfil comunicativo, organizado e gosto de transformar ideias em soluções bem estruturadas.
 
@@ -18,7 +16,7 @@ Tenho perfil comunicativo, organizado e gosto de transformar ideias em soluçõe
 
 ## 🚀 Áreas de interesse
 
-- 💻 Desenvolvimento Web (Front-end)
+- 💻 Desenvolvimento Web 
 - 📊 Gestão de Projetos
 - 🔄 Metodologias Ágeis (Scrum)
 - 🧠 Organização e planejamento de sistemas
@@ -41,8 +39,8 @@ Tenho perfil comunicativo, organizado e gosto de transformar ideias em soluçõe
 
 ## 💌 Contato
 
-📧 camilybarbosa08@gmail.com  
-💼 (coloca seu LinkedIn aqui)
+📧 camilybarbosa2005@gmail.com 
+💼 www.linkedin.com/in/camily-barbosa-829820270
 
 ---
 
