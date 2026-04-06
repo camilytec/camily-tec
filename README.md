@@ -26,15 +26,16 @@ Tenho perfil comunicativo, organizado e gosto de transformar ideias em soluçõe
 ## 🛠️ Tecnologias
 
 ### 💻 Linguagens
-![JavaScript](https://img.shields.io/badge/JavaScript-#D2B48C?style=for-the-badge&logo=javascript&logoColor=white)
-![C#](https://img.shields.io/badge/CSharp-#D2B48C?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-#D2B48C?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=white)
+![C#](https://img.shields.io/badge/CSharp-ff69b4?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white)
 
 ### ⚙️ Ferramentas
-![React](https://img.shields.io/badge/React-#D2B48C?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-#D2B48C?style=for-the-badge&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-#D2B48C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-ff69b4?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-ff69b4?style=for-the-badge&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-ff69b4?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+---
 ---
 
 ## 💌 Contato
